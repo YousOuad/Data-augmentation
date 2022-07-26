@@ -1,0 +1,5 @@
+medmnist
+PIL
+numpy
+matplotlib.pyplot
+tensorflow
