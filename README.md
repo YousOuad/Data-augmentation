@@ -15,3 +15,4 @@ The <a href="https://github.com/YousOuad/Data-augmentation/blob/main/Data_augmen
 The generation of geometric data is a very known method to  improve the performance of image classifiers, consequently, we believe that combining DCGAN and geometric data augmentation models would yield a good boost in the performs of image classifiers.
 
 This notebook was executed on Google Colab Pro for GPU boost.
+
